@@ -1,0 +1,35 @@
+_repo: Frank-the-Young-Naturalist_12405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: In the adventures of Frank, this novel stands alone as our traveled protagonist
+  ventures off to the wild. It is one of Castlemon's earlier works when the reader
+  was just getting acquainted with Frank.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Naturalists -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Survival skills -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- GITenberg
+title: Frank, the Young Naturalist
+url: http://www.gutenberg.org/ebooks/12405

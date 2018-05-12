@@ -1,5 +1,8 @@
 _repo: Frank-the-Young-Naturalist_12405
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -13,6 +16,8 @@ creator:
 description: In the adventures of Frank, this novel stands alone as our traveled protagonist
   ventures off to the wild. It is one of Castlemon's earlier works when the reader
   was just getting acquainted with Frank.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12405#Frank-the-Young-Naturalist
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
